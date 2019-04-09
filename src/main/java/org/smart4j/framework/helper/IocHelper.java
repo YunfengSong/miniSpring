@@ -1,12 +1,10 @@
 package org.smart4j.framework.helper;
 
-import org.smart4j.framework.annotation.Inject;
 import org.smart4j.framework.util.ArrayUtil;
 import org.smart4j.framework.util.CollectionUtil;
 import org.smart4j.framework.util.ReflectionUtil;
 
 import java.lang.reflect.Field;
-import java.util.Collection;
 import java.util.Map;
 
 
